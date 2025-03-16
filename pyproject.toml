@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "estudo-celery"
+version = "0.1.0"
+description = ""
+authors = ["MatheusLPolidoro <mattpolidoro4@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+celery = "^5.4.0"
+eventlet = "^0.39.1"
+flower = "^2.0.1"
+fastapi = {extras = ["standard"], version = "^0.115.8"}
+mariadb = "^1.1.12"
+sqlalchemy = "^2.0.39"
+mysql-connector-python = "^9.2.0"
+pymysql = "^1.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
