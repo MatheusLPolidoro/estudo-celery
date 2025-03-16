@@ -1,6 +1,6 @@
 # Estrutura Servidor 🖥️
 
-Estudo para estruturar uma maquina com **windows 11** para servir aplicações em LAN atravez de proxy reverso utilizando um servidor web e banco de dados local e tecnicas de programação distuibuida com menssageria.
+Estudo para estruturar uma maquina com **windows 11** para servir aplicações em LAN atravez de proxy reverso utilizando um servidor web e banco de dados local e tecnicas de programação distuibuida com mensageria.
 
 ## Ferramentas 🛠️
 ### Download e instalação manuais 🧩
